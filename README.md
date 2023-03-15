@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Urszula-Molska
 - 👀 I’m interested in creating modern web sites and applications
-- 🌱 I’m currently learning Java script...
+- 🌱 I’m currently learning Node.js and Mongo DB
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: urszula_molska@wp.pl
 
 I am using:
-HTML5, CSS3, JavaScript, Sass, Gi,t Visual Studio Code andFigma
+HTML5, CSS3, JavaScript, Sass, Git, Visual Studio Code, Figma, React, BEM, 
 
 
 <!---
