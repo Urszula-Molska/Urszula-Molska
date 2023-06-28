@@ -5,7 +5,7 @@
 - 📫 How to reach me: urszula_molska@wp.pl
 
 I am using:
-HTML5, CSS3, JavaScript, Sass, Git, Visual Studio Code, Figma, React, BEM, 
+HTML5, CSS3, JavaScript, Sass, Git, Visual Studio Code, Figma, React, BEM, Node.js, Express.js, MongoDB
 
 
 <!---
