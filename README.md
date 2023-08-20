@@ -6,7 +6,7 @@
                        https://www.linkedin.com/in/urszulam/
 
 I am using:
-HTML5, CSS3, JavaScript, Sass, Git, Visual Studio Code, Figma, React, BEM, Node.js, Express.js, MongoDB
+HTML5, CSS3, JavaScript, Sass, Git, Visual Studio Code, Figma, React, BEM, Node.js, Express.js, MongoDB, Tailwind
 
 
 <!---
