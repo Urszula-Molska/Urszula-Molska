@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @Urszula-Molska
 - 👀 I’m interested in creating modern web sites and applications
-- 🌱 I’m currently learning Figma, Tailwind and Typescript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning UI/UX design in Figma, Typescript and Jest
+- 💞️ I’m looking to collaborate on different kind of projrcts.
 - 📫 How to reach me:  urszula_molska@wp.pl
                        https://www.linkedin.com/in/urszulam/
 
 I am using:
-HTML5, CSS3, JavaScript, Sass, Git, Visual Studio Code, Figma, React, BEM, Node.js, Express.js, MongoDB, Tailwind
+HTML5, CSS3, JavaScript, Sass, Git, Visual Studio Code, Figma, React, Redux, BEM, Node.js, Express.js, MongoDB, Tailwind, Netlify, Vercel, Mongoose,
 
 
 <!---
