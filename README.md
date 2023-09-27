@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Urszula-Molska
 - 👀 I’m interested in creating modern web sites and applications
-- 🌱 I’m currently learning UI/UX design in Figma, Typescript and Jest
+- 🌱 I’m currently finishing Udemy course on  UI/UX design in Figma, Typescript and Jest
 - 💞️ I’m looking to collaborate on different kind of projrcts.
 - 📫 How to reach me:  urszula_molska@wp.pl
                        https://www.linkedin.com/in/urszulam/
