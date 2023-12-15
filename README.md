@@ -6,7 +6,7 @@
                        https://www.linkedin.com/in/urszulam/
 
 I am using:
-HTML5, CSS3, JavaScript, Sass, Git, Visual Studio Code, Figma, React, Redux, BEM, Node.js, Express.js, MongoDB, Tailwind, Netlify, Vercel, Mongoose, t3app, next.js, trpc, prisma, zod, typescript
+HTML5, CSS3, JavaScript, Sass, Git, Visual Studio Code, Figma, React, Redux, BEM, Node.js, Express.js, MongoDB, Tailwind, Netlify, Vercel, Mongoose, t3app, next.js, trpc, prisma, zod, typescript,  daisyUI
 
 
 <!---
